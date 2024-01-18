@@ -1,0 +1,85 @@
+.allbody {
+    width: 1440px;
+    height: 6940px;
+}
+
+/*header*/
+.hero {
+    display: flex;
+    justify-content: space-between
+}
+
+.img {
+    display: flex;
+}
+
+.home {
+    display: flex;
+
+
+}
+
+.explore {
+    background-image: url('B9A2-Hero-Travel/Images/Group 13 (1) (1).png');
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    text-align: center;
+    padding-top: 20px;
+
+
+}
+
+/*main*/
+.popular-tour {
+    display: flex;
+    justify-content: baseline;
+}
+
+.destination {
+    text-align: center;
+}
+
+.why-choose {
+    
+    text-align: center;
+
+}
+
+.handpicked {
+    display: flex;
+    text-align: center;
+    flex-shrink: 0;
+
+
+}
+
+.hand {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+}
+
+.world-class {
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+}
+
+.best-price {
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+    
+
+
+}
