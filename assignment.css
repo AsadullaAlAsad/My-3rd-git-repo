@@ -1,6 +1,7 @@
 .allbody {
     width: 1440px;
     height: 6940px;
+    padding-left: 200px;
 }
 
 /*header*/
@@ -41,7 +42,7 @@
 }
 
 .why-choose {
-    
+
     text-align: center;
 
 }
@@ -79,7 +80,39 @@
     width: 573px;
     height: 284px;
     flex-shrink: 0;
+
+
+
+}
+
+.deals {
+    text-align: center;
     
+}
 
+.bg-tour-to {
+    background-image: url('Images/Group 39.png');
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    justify-content: right;
+    
+}
 
+.tour-to-sa {
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    width: 579px;
+    height: 389px;
+    flex-shrink: 0;
+    justify-content: right;
+    
+}
+.packeges{
+    text-align: center;
+}
+.perfect-place{
+    display: flex;
 }
